@@ -1,4 +1,3 @@
-
 function draw () {
     var c = document.getElementById("logoCanvas");
     var ctx = c.getContext("2d");
